@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes changes of files.
 stupid boss
-this is branch B
+Creating a new branch is quick AND simple.
